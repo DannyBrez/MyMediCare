@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="lightTheme.MyApplication" parent="Theme.AppCompat.DayNight.DarkActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/lightGreen</item>
+        <item name="colorPrimaryVariant">@color/darkGreen</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <!-- Customize your theme here. -->
+        <item name="android:windowBackground">@color/lightBackground</item>
+        <item name="android:textColor">@color/lightText</item>
+        <item name="android:editTextColor">@color/lightText</item>
+        <item name="android:textColorHint">@color/lightText</item>
+        <item name="android:buttonStyle">@style/yourButtonStyle</item>
+    </style>
+
+    <style name="yourButtonStyle1" parent="@style/Widget.AppCompat.Button">
+        <!-- Set background -->
+        <item name="android:backgroundTint">@color/lightButtonTint</item>
+    </style>
+
+</resources>

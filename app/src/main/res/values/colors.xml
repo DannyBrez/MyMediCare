@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    //Light Primaries
+    <color name="lightGreen">#C5D7BD</color>
+    <color name="darkGreen">#9FB8AD</color>
+    <color name="white">#FFFFFFFF</color>
+    //Dark Primaries
+    <color name="black">#FF000000</color>
+    <color name="purple">#52057b</color>
+    <color name="lightPurple">#892cdc</color>
+
+    //Light Formatting Colours
+    <color name="lightBackground">#383E56</color>
+    <color name="lightText">#FFFFFF</color>
+    <color name="lightButtonTint">#FB743E</color>
+
+    //Dark Formatting Colours
+    <color name="grey">#111111</color>
+</resources>
